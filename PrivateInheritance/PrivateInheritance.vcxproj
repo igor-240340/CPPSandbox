@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6f0aafdb-b5b9-437c-b697-bfa3fdd24cde}</ProjectGuid>
-    <RootNamespace>Cast</RootNamespace>
+    <ProjectGuid>{8b897c8f-b858-46b9-83aa-1ffef6f2ceab}</ProjectGuid>
+    <RootNamespace>PrivateInheritance</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
